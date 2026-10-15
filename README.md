@@ -1,11 +1,16 @@
 OntoGraf
 ====================
 
-Protege Desktop plug-in that allows visual, interactive navigation of the relationships in OWL ontologies.
+Protege Desktop plug-in that lets you visually and interactively navigate relationships in OWL ontologies.
 
-OntoGraf is bundled with the default installation of Protege Desktop.  There are no additional installation steps required.  Enable OntoGraf from the Window | Tabs menu.  More user documentation is available on the Protege wiki:
+OntoGraf is bundled with the default Protege Desktop installation.  This release replaces the default version with new axiom labelling.  More user documentation is available on the Protege wiki:
 
 http://protegewiki.stanford.edu/wiki/OntoGraf
+
+# New axiom labelling feature
+
+<img width="800" height="435" alt="image" src="https://github.com/user-attachments/assets/87be8e7d-652a-4caa-a844-cc5ba914f6e5" />
+
 
 # Build and run tests
 ```
